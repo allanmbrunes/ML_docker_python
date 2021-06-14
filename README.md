@@ -6,7 +6,7 @@ Case of ML model to deploy in nginx server with docker.
 
 - Python 
 - Dockerfile
-- requeriments
+- requirements
 
 ## Use Cases
 
